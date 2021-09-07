@@ -1,10 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
-Hello I'm Denis.
+I'm Denis.
 
-I'm 29 years old and come from Stuttgart.
+I'm 29 years old and come from Stuttgart. 
 
-I start my *education as Frontend-Developer* at neuefische GmbH.
+I start my *education as Frontend-Developer* at neuefische GmbH.	:nerd_face:
 
 [My GitHub](https://github.com/NewDeLi)
 
@@ -21,13 +21,13 @@ I start my *education as Frontend-Developer* at neuefische GmbH.
 - politician
 
 ### What I want to learn:
-- spanish
+- spanish 
 - italian
 - coding
 
 ### Job experience
-- gastronomy for events
-- filmer for soccer and futsal
+- gastronomy for events 👨‍🍳
+- filmer for soccer and futsal :camera: :soccer:
 
 <!--
 **NewDeLi/NewDeLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
