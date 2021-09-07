@@ -2,7 +2,7 @@
 
 ![funny gif](https://media1.giphy.com/media/QpfqKHA1fUXDi/giphy.gif?cid=ecf05e47sd9zcy2jgrd0tirz5x790zi7yyh4z8oci1400qgj&rid=giphy.gif&ct=g)
 
-I'm Denis.
+I'm Denis. :de: :philippines:
 
 I'm 29 years old and come from Stuttgart. 
 
