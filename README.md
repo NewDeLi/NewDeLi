@@ -2,9 +2,9 @@
 
 ![funny gif](https://media1.giphy.com/media/QpfqKHA1fUXDi/giphy.gif?cid=ecf05e47sd9zcy2jgrd0tirz5x790zi7yyh4z8oci1400qgj&rid=giphy.gif&ct=g)
 
-I'm Denis. :de: :philippines:
+I am Denis. :de: :philippines:
 
-I'm 29 years old and come from Stuttgart. 
+I am 29 years old and come from Stuttgart. ![stuttgart](http://www.wg-gesucht.de/img/artikel/stuttgart-wg-zimmer.jpg)
 
 I start my *education as Frontend-Developer* at neuefische GmbH.	:nerd_face:
 
