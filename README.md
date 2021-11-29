@@ -2,15 +2,16 @@
 
 ![funny gif](https://media1.giphy.com/media/QpfqKHA1fUXDi/giphy.gif?cid=ecf05e47sd9zcy2jgrd0tirz5x790zi7yyh4z8oci1400qgj&rid=giphy.gif&ct=g)
 
-I am Denis. :de: :philippines:
+My Name is Denis William Lindner. I am 29 years old and come from Stuttgart. :de: :philippines:
 
-I am 29 years old and come from Stuttgart. ![stuttgart](http://www.wg-gesucht.de/img/artikel/stuttgart-wg-zimmer.jpg)
+I started my *education as Frontend-Developer* at neuefische GmbH 3 months ago.	:nerd_face:
 
-I start my *education as Frontend-Developer* at neuefische GmbH.	:nerd_face:
+Before the bootcamp I was an event caterer. Now I have found my true passion.💻
 
-[My GitHub](https://github.com/NewDeLi)
 
-[My Facebook](https://www.facebook.com/denis.li.54)
+
+
+
 
 ### What I like to do:
 - traveling
@@ -25,11 +26,16 @@ I start my *education as Frontend-Developer* at neuefische GmbH.	:nerd_face:
 ### What I want to learn:
 - spanish 
 - italian
-- coding
+- more coding
 
 ### Job experience
 - gastronomy for events 👨‍🍳
 - filmer for soccer and futsal :camera: :soccer:
+
+### My Socials
+[My GitHub](https://github.com/NewDeLi)
+
+[My Facebook](https://www.facebook.com/denis.li.54)
 
 <!--
 **NewDeLi/NewDeLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
