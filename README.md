@@ -8,6 +8,8 @@ I started my *education as Frontend-Developer* at neuefische GmbH 3 months ago.	
 
 Before the bootcamp I was an event caterer. Now I have found my true passion.💻
 
+[![NewDeLi's github stats](https://github-readme-stats.vercel.app/api?username=NewDeLi)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
